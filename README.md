@@ -11,18 +11,17 @@ python -m streamlit run week7.py
 ```
 
 ## Project Structure
-\```
-trading-engine/
-├── week1.py # Data fetching and visualisation
-├── week2.py # Financial concepts and returns analysis
-├── week3.py # Moving average crossover strategy
-├── week4.py # Backtesting engine
-├── week5.py # C++ performance core with Python bindings
-├── week6.py # Risk metrics (Sharpe, VaR, Max Drawdown)
-├── week7.py # Interactive Streamlit dashboard
-├── backtest.cpp # C++ simulation loop
-└── backtest.dll # Compiled C++ library
-\```
+
+- week1.py # Data fetching and visualisation
+- week2.py # Financial concepts and returns analysis
+- week3.py # Moving average crossover strategy
+- week4.py # Backtesting engine
+- week5.py # C++ performance core with Python bindings
+- week6.py # Risk metrics (Sharpe, VaR, Max Drawdown)
+- week7.py # Interactive Streamlit dashboard
+- backtest.cpp # C++ simulation loop
+- backtest.dll # Compiled C++ library
+
 
 ## Features
 

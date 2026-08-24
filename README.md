@@ -11,6 +11,7 @@ python -m streamlit run week7.py
 ```
 
 ## Project Structure
+\```
 trading-engine/
 ├── week1.py # Data fetching and visualisation
 ├── week2.py # Financial concepts and returns analysis
@@ -21,7 +22,7 @@ trading-engine/
 ├── week7.py # Interactive Streamlit dashboard
 ├── backtest.cpp # C++ simulation loop
 └── backtest.dll # Compiled C++ library
-
+\```
 
 ## Features
 

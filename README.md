@@ -60,5 +60,5 @@ trading-engine/
 
 ## Built By
 
-Lucy Pakenham — First Year Engineering Student  
+Lucy Pakenham — Engineering Student  
 github.com/LucyPakenham
